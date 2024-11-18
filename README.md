@@ -11,8 +11,8 @@
     <tr>
         <td>
             Sensor Data Transmitter<br>
-            • RN171 : Ethernet <br>
-	    • RN172-WCD : WiFi <br>
+            • RN171 : via Ethernet <br>
+	    • RN172-WCD : via WiFi <br>
         </td>
         <td>
 		HTTP<br>
@@ -21,3 +21,13 @@
 	</td>
     </tr>
 </table>
+
+<h3> Software Tools</h3>
+    <p>
+        • RN171/RN172 Series USB Driver (windows)<br>
+        • C# example : Radionode V2 Protocol<br>
+        • Radionode Terminal : Change Setting<br>
+        • TapaculoLite : To view sensor measurement on your computer
+       <a href="https://github.com/radionode/UA-SENSOR/tree/94909a081c19ad16308328bf5673431e58449d5c/TapaculoLite" target="_blank">(click)</a>
+    </p>
+</body>
